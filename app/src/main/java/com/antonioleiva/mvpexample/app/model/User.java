@@ -6,5 +6,4 @@ package com.antonioleiva.mvpexample.app.model;
 public class User {
     public String name;
     public int image;
-
 }
